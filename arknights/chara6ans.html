@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>★6オペレーター言えるかな？</title>
+  <link rel="stylesheet" href="./css/chara6ans.css" type="text/css">
+</head>
+<body>
+  <header>
+    <h2>★6オペレーター言えるかな？</h2>
+    <details open><summary>注意事項(左の▼ボタンで隠せます。)</summary>
+      <!-- リスト -->
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=WDg3FtI_yYk">とあるYouTubeの動画</a>を見て面白そうだったので作成しました。作者はプログラミング初心者なので不備があるかもしれません。</li>
+        <li>並びは <strong>職業順 > 名前順</strong> です。(先鋒・前衛・重装・狙撃・術師・医療・補助・特殊)</li>
+        <li>解答はひらがな、カタカナ、漢字どちらでもよいです。</li>
+        <li>「・」はあってもなくてもよいです。</li>
+        <li>異格キャラは「異格+元のキャラ名」でもよいです。</li>
+        <li>左のタイマーはテキストボックスをクリックした瞬間から始まります。タイマーを押すと一時停止、もう一度押すと再開できます。</li>
+        <li>現在PCのみ動作を確認しています。エンターキーを押すと解答できます。</li>
+        <li>2026年8月24日の時点で日本版に実装されているキャラが対象です。</li>
+      </ul>
+    </details>
+
+    <!-- 解答部分 -->
+    <div class="grid-container">
+      <!-- タイマー -->
+      <div class="grid__item" id="gi1">
+        <div class="ansPlace" id="timer">00:00:00</div>
+      </div>
+
+      <!-- テキストボックス -->
+      <div class="grid__item" id="gi2">
+        <input type="text" name="characterName" id="inputBox" autocomplete="off">
+      </div>
+
+      <!-- カウント -->
+      <div class="grid__item" id="gi3">
+        <div class="ansPlace">
+          <span id="counter">0</span>/
+          <span id="counter2"></span>
+        </div>
+      </div>
+    </div>
+    <hr>
+  </header>
+
+  <div id="result"></div>
+
+  <script src="./js/chara6ans.js"></script>
+
+</body>
+</html>
