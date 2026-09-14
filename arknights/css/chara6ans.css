@@ -1,10 +1,21 @@
-/* 上部分 */
-header {
-  position: sticky;
-  top: 0;
-  background-color: white;
+body {
+  margin-top: 0;
 }
 
+h2 {
+  margin: 0;
+}
+
+/* 上部分 */
+header {
+  margin: 0;
+  /* padding: 8; */
+  background-color: white;
+}
+.stickyHeader {
+  position: sticky;
+  top: 0;
+}
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
