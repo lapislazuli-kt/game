@@ -1,34 +1,34 @@
-/* ------最終更新日設定------ */
-// 変数設定
-const last = new Date(document.lastModified);
-const year = last.getFullYear();
-const month = last.getMonth() + 1;
-const date = last.getDate();
+// /* ------最終更新日設定------ */
+// // 変数設定
+// const last = new Date(document.lastModified);
+// const year = last.getFullYear();
+// const month = last.getMonth() + 1;
+// const date = last.getDate();
 
-// 最終更新日変更
-// 月・日の値を修正した後に格納する変数を用意する
-let fixedMonth = month;
-let fixedDate = date;
-// 月の値が10より小さい場合は先頭に「0」を追加
-if (month < 10) {
-  fixedMonth = "0" + month;
-}
-// 日の値が10より小さい場合は先頭に「0」を追加
-if (date < 10) {
-  fixedDate = "0" + date;
-}
+// // 最終更新日変更
+// // 月・日の値を修正した後に格納する変数を用意する
+// let fixedMonth = month;
+// let fixedDate = date;
+// // 月の値が10より小さい場合は先頭に「0」を追加
+// if (month < 10) {
+//   fixedMonth = "0" + month;
+// }
+// // 日の値が10より小さい場合は先頭に「0」を追加
+// if (date < 10) {
+//   fixedDate = "0" + date;
+// }
 
-// 表示用のテキストを作成 例: 2024年2月8日
-const viewDateText = year + "年" + month + "月" + date + "日";
-// データ用の文字列を作成 例: 2024-02-08
-const datetimeText = year + "-" + fixedMonth + "-" + fixedDate;
+// // 表示用のテキストを作成 例: 2024年2月8日
+// const viewDateText = year + "年" + month + "月" + date + "日";
+// // データ用の文字列を作成 例: 2024-02-08
+// const datetimeText = year + "-" + fixedMonth + "-" + fixedDate;
 
-// 更新日の表示先のHTML要素「time」タグを取得
-const target = document.getElementById('modified_date');
-// timeタグの内容を上書きする 例: 2024年2月8日
-target.textContent = viewDateText;
-// timeタグのdatetime属性を追加する 例: 2024-02-08
-target.setAttribute("datetime", datetimeText);
+// // 更新日の表示先のHTML要素「time」タグを取得
+// const target = document.getElementById('modified_date');
+// // timeタグの内容を上書きする 例: 2024年2月8日
+// target.textContent = viewDateText;
+// // timeタグのdatetime属性を追加する 例: 2024-02-08
+// target.setAttribute("datetime", datetimeText);
 
 
 // インプットボックス変数宣言

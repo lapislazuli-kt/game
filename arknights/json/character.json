@@ -2,6 +2,8 @@
   {
     "name": "イネス",
     "img": "Ines",
+    "class": "先鋒",
+    "branch": "偵察兵",
     "keywords": [
       "いねす",
       "イネス"
@@ -10,6 +12,8 @@
   {
     "name": "ヴィジェル",
     "img": "Vigil",
+    "class": "先鋒",
+    "branch": "戦術家",
     "keywords": [
       "ヴぃじぇる",
       "ヴィジェル"
@@ -18,6 +22,8 @@
   {
     "name": "ウルピスフォリア",
     "img": "Vulpisfoglia",
+    "class": "先鋒",
+    "branch": "先駆兵",
     "keywords": [
       "うるぴすふぉりあ",
       "ウルピスフォリア"
@@ -26,6 +32,8 @@
   {
     "name": "サイラッハ",
     "img": "Saileach",
+    "class": "先鋒",
+    "branch": "旗手",
     "keywords": [
       "さいらっは",
       "サイラッハ"
@@ -34,6 +42,8 @@
   {
     "name": "サガ",
     "img": "Saga",
+    "class": "先鋒",
+    "branch": "先駆兵",
     "keywords": [
       "さが",
       "サガ"
@@ -42,6 +52,8 @@
   {
     "name": "シージ",
     "img": "Siege",
+    "class": "先鋒",
+    "branch": "先駆兵",
     "keywords": [
       "しーじ",
       "シージ"
@@ -50,6 +62,8 @@
   {
     "name": "バグパイプ",
     "img": "Bagpipe",
+    "class": "先鋒",
+    "branch": "突撃兵",
     "keywords": [
       "ばぐぱいぷ",
       "バグパイプ"
@@ -58,6 +72,8 @@
   {
     "name": "フレイムテイル",
     "img": "Flametail",
+    "class": "先鋒",
+    "branch": "先駆兵",
     "keywords": [
       "ふれいむている",
       "フレイムテイル"
@@ -66,6 +82,8 @@
   {
     "name": "ミュルジス",
     "img": "Muelsyse",
+    "class": "先鋒",
+    "branch": "戦術家",
     "keywords": [
       "みゅるじす",
       "ミュルジス"
@@ -74,6 +92,8 @@
   {
     "name": "凛御シルバーアッシュ",
     "img": "SilverAsh_the_Reignfrost",
+    "class": "先鋒",
+    "branch": "策士",
     "keywords": [
       "凛御しるばーあっしゅ",
       "凛御シルバーアッシュ",
@@ -88,6 +108,8 @@
   {
     "name": "アイリーニ",
     "img": "Irene",
+    "class": "前衛",
+    "branch": "剣豪",
     "keywords": [
       "あいりーに",
       "アイリーニ"
@@ -96,6 +118,8 @@
   {
     "name": "ヴィーナ・ヴィクトリア",
     "img": "Vina_Victoria",
+    "class": "前衛",
+    "branch": "術戦士",
     "keywords": [
       "ヴぃーな・ヴぃくとりあ",
       "ヴィーナ・ヴィクトリア",
@@ -110,6 +134,8 @@
   {
     "name": "ヴィヴィアナ",
     "img": "Viviana",
+    "class": "前衛",
+    "branch": "術戦士",
     "keywords": [
       "ヴぃヴぃあな",
       "ヴィヴィアナ"
@@ -118,6 +144,8 @@
   {
     "name": "ウルピアヌス",
     "img": "Ulpianus",
+    "class": "前衛",
+    "branch": "重剣士",
     "keywords": [
       "うるぴあぬす",
       "ウルピアヌス"
@@ -126,6 +154,8 @@
   {
     "name": "エンテレケイア",
     "img": "Entelechia",
+    "class": "前衛",
+    "branch": "鎌撃士",
     "keywords": [
       "えんてれけいあ",
       "エンテレケイア"
@@ -134,6 +164,8 @@
   {
     "name": "シルバーアッシュ",
     "img": "SilverAsh",
+    "class": "前衛",
+    "branch": "領主",
     "keywords": [
       "しるばーあっしゅ",
       "シルバーアッシュ"
@@ -142,6 +174,8 @@
   {
     "name": "ズオ・ラウ",
     "img": "Zuo_Le",
+    "class": "前衛",
+    "branch": "武者",
     "keywords": [
       "ずお・らう",
       "ズオ・ラウ",
@@ -152,6 +186,8 @@
   {
     "name": "スカジ",
     "img": "Skadi",
+    "class": "前衛",
+    "branch": "勇士",
     "keywords": [
       "すかじ",
       "スカジ"
@@ -160,6 +196,8 @@
   {
     "name": "スルト",
     "img": "Surtr",
+    "class": "前衛",
+    "branch": "術戦士",
     "keywords": [
       "すると",
       "スルト"
@@ -168,6 +206,8 @@
   {
     "name": "ソーンズ",
     "img": "Thorns",
+    "class": "前衛",
+    "branch": "領主",
     "keywords": [
       "そーんず",
       "ソーンズ"
@@ -176,6 +216,8 @@
   {
     "name": "チェン",
     "img": "Chen",
+    "class": "前衛",
+    "branch": "剣豪",
     "keywords": [
       "ちぇん",
       "チェン"
@@ -184,6 +226,8 @@
   {
     "name": "チューバイ",
     "img": "Qiubai",
+    "class": "前衛",
+    "branch": "領主",
     "keywords": [
       "ちゅーばい",
       "チューバイ"
@@ -192,6 +236,8 @@
   {
     "name": "チョンユエ",
     "img": "Chongyue",
+    "class": "前衛",
+    "branch": "闘士",
     "keywords": [
       "ちょんゆえ",
       "チョンユエ"
@@ -200,6 +246,8 @@
   {
     "name": "デーゲンブレヒャー",
     "img": "Degenbrecher",
+    "class": "前衛",
+    "branch": "剣豪",
     "keywords": [
       "でーげんぶれひゃー",
       "デーゲンブレヒャー"
@@ -208,6 +256,8 @@
   {
     "name": "パラス",
     "img": "Pallas",
+    "class": "前衛",
+    "branch": "教官",
     "keywords": [
       "ぱらす",
       "パラス"
@@ -216,6 +266,8 @@
   {
     "name": "ブレイズ",
     "img": "Blaze",
+    "class": "前衛",
+    "branch": "強襲者",
     "keywords": [
       "ぶれいず",
       "ブレイズ"
@@ -224,6 +276,8 @@
   {
     "name": "ベッローネ",
     "img": "Bellone",
+    "class": "前衛",
+    "branch": "闘士",
     "keywords": [
       "べっろーね",
       "ベッローネ"
@@ -232,6 +286,8 @@
   {
     "name": "ヘドリー",
     "img": "Hoederer",
+    "class": "前衛",
+    "branch": "重剣士",
     "keywords": [
       "へどりー",
       "ヘドリー"
@@ -240,6 +296,8 @@
   {
     "name": "ペペ",
     "img": "Pepe",
+    "class": "前衛",
+    "branch": "槌撃士",
     "keywords": [
       "ぺぺ",
       "ペペ"
@@ -248,6 +306,8 @@
   {
     "name": "ヘラグ",
     "img": "Hellagur",
+    "class": "前衛",
+    "branch": "武者",
     "keywords": [
       "へらぐ",
       "ヘラグ"
@@ -256,6 +316,8 @@
   {
     "name": "マウンテン",
     "img": "Mountain",
+    "class": "前衛",
+    "branch": "闘士",
     "keywords": [
       "まうんてん",
       "マウンテン"
@@ -264,6 +326,8 @@
   {
     "name": "ムリナール",
     "img": "Mlynar",
+    "class": "前衛",
+    "branch": "解放者",
     "keywords": [
       "むりなーる",
       "ムリナール"
@@ -272,6 +336,8 @@
   {
     "name": "レッシング",
     "img": "Lessing",
+    "class": "前衛",
+    "branch": "勇士",
     "keywords": [
       "れっしんぐ",
       "レッシング"
@@ -280,6 +346,8 @@
   {
     "name": "司霆レイズ",
     "img": "Leizi_the_Thunderbringer",
+    "class": "前衛",
+    "branch": "解放者",
     "keywords": [
       "司霆れいず",
       "司霆レイズ",
@@ -294,6 +362,8 @@
   {
     "name": "聖約イグゼキュター",
     "img": "Executor_the_Ex_Foedere",
+    "class": "前衛",
+    "branch": "鎌撃士",
     "keywords": [
       "聖約いぐぜきゅたー",
       "聖約イグゼキュター",
@@ -308,6 +378,8 @@
   {
     "name": "赤刃明霄チェン",
     "img": "Ch'en_the_Dawnstreak",
+    "class": "前衛",
+    "branch": "術戦士",
     "keywords": [
       "赤刃明霄ちぇん",
       "赤刃明霄チェン",
@@ -326,6 +398,8 @@
   {
     "name": "豊川祥子",
     "img": "Togawa_Sakiko",
+    "class": "前衛",
+    "branch": "領主",
     "keywords": [
       "豊川祥子",
       "とがわ祥子",
@@ -336,6 +410,8 @@
   {
     "name": "怒潮ズィマー",
     "img": "Zima_the_Raging_Tide",
+    "class": "前衛",
+    "branch": "槌撃士",
     "keywords": [
       "怒潮ズィマー",
       "怒潮ずぃまー",
@@ -350,6 +426,8 @@
   {
     "name": "百錬ガヴィル",
     "img": "Gavial_the_Invincible",
+    "class": "前衛",
+    "branch": "強襲者",
     "keywords": [
       "百錬がヴぃる",
       "百錬ガヴィル",
@@ -364,6 +442,8 @@
   {
     "name": "耀騎士ニアール",
     "img": "Nearl_the_Radiant_Knight",
+    "class": "前衛",
+    "branch": "勇士",
     "keywords": [
       "耀騎士にあーる",
       "耀騎士ニアール",
@@ -378,6 +458,8 @@
   {
     "name": "サリア",
     "img": "Saria",
+    "class": "重装",
+    "branch": "庇護衛士",
     "keywords": [
       "さりあ",
       "サリア"
@@ -386,6 +468,8 @@
   {
     "name": "サンクタ・ミキサー",
     "img": "Sankta_Miksaparato",
+    "class": "重装",
+    "branch": "哨戒衛士",
     "keywords": [
       "さんくた・みきさー",
       "サンクタ・ミキサー",
@@ -396,6 +480,8 @@
   {
     "name": "シュウ",
     "img": "Shu",
+    "class": "重装",
+    "branch": "庇護衛士",
     "keywords": [
       "しゅう",
       "シュウ"
@@ -404,6 +490,8 @@
   {
     "name": "ニェン",
     "img": "Nian",
+    "class": "重装",
+    "branch": "重盾衛士",
     "keywords": [
       "にぇん",
       "ニェン"
@@ -412,6 +500,8 @@
   {
     "name": "ブレミシャイン",
     "img": "Blemishine",
+    "class": "重装",
+    "branch": "庇護衛士",
     "keywords": [
       "ぶれみしゃいん",
       "ブレミシャイン"
@@ -420,6 +510,8 @@
   {
     "name": "ペナンス",
     "img": "Penance",
+    "class": "重装",
+    "branch": "破壊者",
     "keywords": [
       "ぺなんす",
       "ペナンス"
@@ -428,6 +520,8 @@
   {
     "name": "ホシグマ",
     "img": "Hoshiguma",
+    "class": "重装",
+    "branch": "重盾衛士",
     "keywords": [
       "ほしぐま",
       "ホシグマ"
@@ -436,6 +530,8 @@
   {
     "name": "ホルン",
     "img": "Horn",
+    "class": "重装",
+    "branch": "堅城砲手",
     "keywords": [
       "ほるん",
       "ホルン"
@@ -444,6 +540,8 @@
   {
     "name": "マドロック",
     "img": "Mudrock",
+    "class": "重装",
+    "branch": "破壊者",
     "keywords": [
       "まどろっく",
       "マドロック"
@@ -452,6 +550,8 @@
   {
     "name": "ユー",
     "img": "Yu",
+    "class": "重装",
+    "branch": "本源衛士",
     "keywords": [
       "ゆー",
       "ユー"
@@ -460,6 +560,8 @@
   {
     "name": "ユーネクテス",
     "img": "Eunectes",
+    "class": "重装",
+    "branch": "決闘者",
     "keywords": [
       "ゆーねくてす",
       "ユーネクテス"
@@ -468,6 +570,8 @@
   {
     "name": "斬業ホシグマ",
     "img": "Hoshiguma_the_Breacher",
+    "class": "重装",
+    "branch": "術技衛士",
     "keywords": [
       "斬業ほしぐま",
       "斬業ホシグマ",
@@ -482,6 +586,8 @@
   {
     "name": "滌火ジェシカ",
     "img": "Jessica_the_Liberated",
+    "class": "重装",
+    "branch": "哨戒衛士",
     "keywords": [
       "滌火じぇしか",
       "滌火ジェシカ",
@@ -498,9 +604,13 @@
   {
     "name": "Ash",
     "img": "Ash",
+    "class": "狙撃",
+    "branch": "速射手",
     "keywords": [
       "Ash",
       "ash",
+      "Ａｓｈ",
+      "ａｓｈ",
       "あっしゅ",
       "アッシュ"
     ]
@@ -508,14 +618,20 @@
   {
     "name": "W",
     "img": "W",
+    "class": "狙撃",
+    "branch": "榴弾射手",
     "keywords": [
       "W",
-      "w"
+      "w",
+      "Ｗ",
+      "ｗ"
     ]
   },
   {
     "name": "アルケット",
     "img": "Archetto",
+    "class": "狙撃",
+    "branch": "速射手",
     "keywords": [
       "あるけっと",
       "アルケット"
@@ -524,6 +640,8 @@
   {
     "name": "ウィシャデル",
     "img": "Wisadel",
+    "class": "狙撃",
+    "branch": "投擲手",
     "keywords": [
       "うぃしゃでる",
       "ウィシャデル",
@@ -536,6 +654,8 @@
   {
     "name": "エクシア",
     "img": "Exusiai",
+    "class": "狙撃",
+    "branch": "速射手",
     "keywords": [
       "えくしあ",
       "エクシア"
@@ -544,6 +664,8 @@
   {
     "name": "シュヴァルツ",
     "img": "Schwarz",
+    "class": "狙撃",
+    "branch": "精密射手",
     "keywords": [
       "しゅヴぁるつ",
       "シュヴァルツ"
@@ -552,6 +674,8 @@
   {
     "name": "ティフォン",
     "img": "Typhon",
+    "class": "狙撃",
+    "branch": "破城射手",
     "keywords": [
       "てぃふぉん",
       "ティフォン"
@@ -560,6 +684,8 @@
   {
     "name": "ナラントゥヤ",
     "img": "Narantuya",
+    "class": "狙撃",
+    "branch": "旋輪射手",
     "keywords": [
       "ならんとぅや",
       "ナラントゥヤ"
@@ -568,6 +694,8 @@
   {
     "name": "パゼオンカ",
     "img": "Pozëmka",
+    "class": "狙撃",
+    "branch": "精密射手",
     "keywords": [
       "ぱぜおんか",
       "パゼオンカ"
@@ -576,6 +704,8 @@
   {
     "name": "ファートゥース",
     "img": "Fartooth",
+    "class": "狙撃",
+    "branch": "戦術射手",
     "keywords": [
       "ふぁーとぅーす",
       "ファートゥース"
@@ -584,6 +714,8 @@
   {
     "name": "フィアメッタ",
     "img": "Fiammetta",
+    "class": "狙撃",
+    "branch": "榴弾射手",
     "keywords": [
       "ふぃあめった",
       "フィアメッタ"
@@ -592,6 +724,8 @@
   {
     "name": "レイ",
     "img": "Ray",
+    "class": "狙撃",
+    "branch": "狩人",
     "keywords": [
       "れい",
       "レイ"
@@ -600,6 +734,8 @@
   {
     "name": "レミュアン",
     "img": "Lemuen",
+    "class": "狙撃",
+    "branch": "戦術射手",
     "keywords": [
       "れみゅあん",
       "レミュアン"
@@ -608,6 +744,8 @@
   {
     "name": "ロサ",
     "img": "Rosa",
+    "class": "狙撃",
+    "branch": "破城射手",
     "keywords": [
       "ろさ",
       "ロサ"
@@ -616,6 +754,8 @@
   {
     "name": "ロスモンティス",
     "img": "Rosmontis",
+    "class": "狙撃",
+    "branch": "投擲手",
     "keywords": [
       "ろすもんてぃす",
       "ロスモンティス"
@@ -624,6 +764,8 @@
   {
     "name": "遊龍チェン",
     "img": "Chen_the_Holungday",
+    "class": "狙撃",
+    "branch": "散弾射手",
     "keywords": [
       "遊龍ちぇん",
       "遊龍チェン",
@@ -638,6 +780,8 @@
   {
     "name": "イフリータ",
     "img": "Ifrit",
+    "class": "術師",
+    "branch": "爆撃術師",
     "keywords": [
       "いふりーた",
       "イフリータ"
@@ -646,6 +790,8 @@
   {
     "name": "エイヤフィヤトラ",
     "img": "Eyjafjalla",
+    "class": "術師",
+    "branch": "中堅術師",
     "keywords": [
       "えいやふぃやとら",
       "エイヤフィヤトラ"
@@ -654,6 +800,8 @@
   {
     "name": "エーベンホルツ",
     "img": "Ebenholz",
+    "class": "術師",
+    "branch": "秘術師",
     "keywords": [
       "えーべんほるつ",
       "エーベンホルツ"
@@ -662,6 +810,8 @@
   {
     "name": "カーネリアン",
     "img": "Carnelian",
+    "class": "術師",
+    "branch": "法陣術師",
     "keywords": [
       "かーねりあん",
       "カーネリアン"
@@ -670,6 +820,8 @@
   {
     "name": "ケオベ",
     "img": "Ceobe",
+    "class": "術師",
+    "branch": "中堅術師",
     "keywords": [
       "けおべ",
       "ケオベ"
@@ -678,6 +830,8 @@
   {
     "name": "ゴールデングロー",
     "img": "Goldenglow",
+    "class": "術師",
+    "branch": "操機術師",
     "keywords": [
       "ごーるでんぐろー",
       "ゴールデングロー"
@@ -686,6 +840,8 @@
   {
     "name": "シー",
     "img": "Dusk",
+    "class": "術師",
+    "branch": "拡散術師",
     "keywords": [
       "しー",
       "シー"
@@ -694,6 +850,8 @@
   {
     "name": "ニンフ",
     "img": "Nymph",
+    "class": "術師",
+    "branch": "本源術師",
     "keywords": [
       "にんふ",
       "ニンフ"
@@ -702,6 +860,8 @@
   {
     "name": "ネクラス",
     "img": "Necrass",
+    "class": "術師",
+    "branch": "創霊術師",
     "keywords": [
       "ねくらす",
       "ネクラス"
@@ -710,6 +870,8 @@
   {
     "name": "パッセンジャー",
     "img": "Passenger",
+    "class": "術師",
+    "branch": "連鎖術師",
     "keywords": [
       "ぱっせんじゃー",
       "パッセンジャー"
@@ -718,6 +880,8 @@
   {
     "name": "ホルハイヤ",
     "img": "Hoolheyak",
+    "class": "術師",
+    "branch": "中堅術師",
     "keywords": [
       "ほるはいや",
       "ホルハイヤ"
@@ -726,6 +890,8 @@
   {
     "name": "マルシル",
     "img": "Marcille",
+    "class": "術師",
+    "branch": "拡散術師",
     "keywords": [
       "まるしる",
       "マルシル"
@@ -734,6 +900,8 @@
   {
     "name": "マントラ",
     "img": "Mantra",
+    "class": "術師",
+    "branch": "本源術師",
     "keywords": [
       "まんとら",
       "マントラ"
@@ -742,6 +910,8 @@
   {
     "name": "モスティマ",
     "img": "Mostima",
+    "class": "術師",
+    "branch": "拡散術師",
     "keywords": [
       "もすてぃま",
       "モスティマ"
@@ -750,6 +920,8 @@
   {
     "name": "リン",
     "img": "Lin",
+    "class": "術師",
+    "branch": "法陣術師",
     "keywords": [
       "りん",
       "リン"
@@ -758,6 +930,8 @@
   {
     "name": "ロゴス",
     "img": "Logos",
+    "class": "術師",
+    "branch": "中堅術師",
     "keywords": [
       "ろごす",
       "ロゴス"
@@ -766,6 +940,8 @@
   {
     "name": "荒蕪ラップランド",
     "img": "Lappland_the_decadenza",
+    "class": "術師",
+    "branch": "操機術師",
     "keywords": [
       "荒蕪らっぷらんど",
       "荒蕪ラップランド",
@@ -780,6 +956,8 @@
   {
     "name": "熾炎ブレイズ",
     "img": "Blaze_the_Igniting_Spark",
+    "class": "術師",
+    "branch": "本源術師",
     "keywords": [
       "熾炎ぶれいず",
       "熾炎ブレイズ",
@@ -794,6 +972,8 @@
   {
     "name": "聖聆プラマニクス",
     "img": "Pramanix_the_Prerita",
+    "class": "術師",
+    "branch": "法陣術師",
     "keywords": [
       "聖聆ぷらまにくす",
       "聖聆プラマニクス",
@@ -808,6 +988,8 @@
   {
     "name": "Mon3tr",
     "img": "Mon3tr",
+    "class": "医療",
+    "branch": "連鎖癒師",
     "keywords": [
       "Mon3tr",
       "mon3tr",
@@ -818,6 +1000,8 @@
   {
     "name": "ケルシー",
     "img": "Kaltsit",
+    "class": "医療",
+    "branch": "医師",
     "keywords": [
       "けるしー",
       "ケルシー"
@@ -826,6 +1010,8 @@
   {
     "name": "シャイニング",
     "img": "Shining",
+    "class": "医療",
+    "branch": "医師",
     "keywords": [
       "しゃいにんぐ",
       "シャイニング"
@@ -834,6 +1020,8 @@
   {
     "name": "ティティ",
     "img": "Titi",
+    "class": "医療",
+    "branch": "呪癒師",
     "keywords": [
       "てぃてぃ",
       "ティティ"
@@ -842,6 +1030,8 @@
   {
     "name": "ナイチンゲール",
     "img": "Nightingale",
+    "class": "医療",
+    "branch": "群癒師",
     "keywords": [
       "ないちんげーる",
       "ナイチンゲール"
@@ -850,6 +1040,8 @@
   {
     "name": "ルーメン",
     "img": "Lumen",
+    "class": "医療",
+    "branch": "療養師",
     "keywords": [
       "るーめん",
       "ルーメン"
@@ -858,6 +1050,8 @@
   {
     "name": "焔影リード",
     "img": "Reed_the_Flame_Shadow",
+    "class": "医療",
+    "branch": "呪癒師",
     "keywords": [
       "焔影りーど",
       "焔影リード",
@@ -872,6 +1066,8 @@
   {
     "name": "純燼エイヤフィヤトラ",
     "img": "Eyjafjalla_the_Hvít_Aska",
+    "class": "医療",
+    "branch": "放浪医",
     "keywords": [
       "純燼えいやふぃやとら",
       "純燼エイヤフィヤトラ",
@@ -886,6 +1082,8 @@
   {
     "name": "アンジェリーナ",
     "img": "Angelina",
+    "class": "補助",
+    "branch": "緩速師",
     "keywords": [
       "あんじぇりーな",
       "アンジェリーナ"
@@ -894,6 +1092,8 @@
   {
     "name": "ヴィルトゥオーサ",
     "img": "Virtuosa",
+    "class": "補助",
+    "branch": "祭儀師",
     "keywords": [
       "ヴぃるとぅおーさ",
       "ヴィルトゥオーサ"
@@ -902,6 +1102,8 @@
   {
     "name": "シヴィライト・エテルナ",
     "img": "Civilight_Eterna",
+    "class": "補助",
+    "branch": "吟遊者",
     "keywords": [
       "しヴぃらいと・えてるな",
       "シヴィライト・エテルナ",
@@ -912,6 +1114,8 @@
   {
     "name": "スズラン",
     "img": "Suzuran",
+    "class": "補助",
+    "branch": "緩速師",
     "keywords": [
       "すずらん",
       "スズラン"
@@ -920,6 +1124,8 @@
   {
     "name": "ステインレス",
     "img": "Stainless",
+    "class": "補助",
+    "branch": "工匠",
     "keywords": [
       "すていんれす",
       "ステインレス"
@@ -928,6 +1134,8 @@
   {
     "name": "トラゴーディア",
     "img": "Tragodia",
+    "class": "補助",
+    "branch": "祭儀師",
     "keywords": [
       "とらごーでぃあ",
       "トラゴーディア",
@@ -940,6 +1148,8 @@
   {
     "name": "ナスティ",
     "img": "Nasti",
+    "class": "補助",
+    "branch": "工匠",
     "keywords": [
       "なすてぃ",
       "ナスティ"
@@ -948,6 +1158,8 @@
   {
     "name": "ノーシス",
     "img": "Gnosis",
+    "class": "補助",
+    "branch": "呪詛師",
     "keywords": [
       "のーしす",
       "ノーシス"
@@ -956,6 +1168,8 @@
   {
     "name": "ハルカ",
     "img": "Haruka",
+    "class": "補助",
+    "branch": "祈祷師",
     "keywords": [
       "はるか",
       "ハルカ"
@@ -964,6 +1178,8 @@
   {
     "name": "マゼラン",
     "img": "Magallan",
+    "class": "補助",
+    "branch": "召喚師",
     "keywords": [
       "まぜらん",
       "マゼラン"
@@ -972,6 +1188,8 @@
   {
     "name": "リィン",
     "img": "Ling",
+    "class": "補助",
+    "branch": "召喚師",
     "keywords": [
       "りぃん",
       "リィン"
@@ -980,6 +1198,8 @@
   {
     "name": "レイディアン",
     "img": "Raidian",
+    "class": "補助",
+    "branch": "召喚師",
     "keywords": [
       "れいでぃあん",
       "レイディアン"
@@ -988,6 +1208,8 @@
   {
     "name": "淬羽サイレンス",
     "img": "Silence_the_Paradigmatic",
+    "class": "補助",
+    "branch": "祈祷師",
     "keywords": [
       "淬羽さいれんす",
       "淬羽サイレンス",
@@ -1002,6 +1224,8 @@
   {
     "name": "溯光アステジーニ",
     "img": "Astgenne_the_Lightchaser",
+    "class": "補助",
+    "branch": "緩速師",
     "keywords": [
       "溯光あすてじーに",
       "溯光アステジーニ",
@@ -1016,6 +1240,8 @@
   {
     "name": "濁心スカジ",
     "img": "Skadi_the_Corrupting_Heart",
+    "class": "補助",
+    "branch": "吟遊者",
     "keywords": [
       "濁心すかじ",
       "濁心スカジ",
@@ -1030,9 +1256,13 @@
   {
     "name": "Ela",
     "img": "Ela",
+    "class": "特殊",
+    "branch": "罠師",
     "keywords": [
       "Ela",
       "ela",
+      "Ｅｌａ",
+      "ｅｌａ",
       "えら",
       "エラ"
     ]
@@ -1040,6 +1270,8 @@
   {
     "name": "ア",
     "img": "Aak",
+    "class": "特殊",
+    "branch": "鬼才",
     "keywords": [
       "あ",
       "ア"
@@ -1048,6 +1280,8 @@
   {
     "name": "アスカロン",
     "img": "Ascalon",
+    "class": "特殊",
+    "branch": "潜伏者",
     "keywords": [
       "あすかろん",
       "アスカロン"
@@ -1056,6 +1290,8 @@
   {
     "name": "ウァン",
     "img": "Wang",
+    "class": "特殊",
+    "branch": "罠師",
     "keywords": [
       "うぁん",
       "ウァン"
@@ -1064,6 +1300,8 @@
   {
     "name": "ウィーディ",
     "img": "Weedy",
+    "class": "特殊",
+    "branch": "推撃手",
     "keywords": [
       "うぃーでぃ",
       "ウィーディ"
@@ -1072,6 +1310,8 @@
   {
     "name": "キリンRヤトウ",
     "img": "Kirin_R_Yato",
+    "class": "特殊",
+    "branch": "執行者",
     "keywords": [
       "きりんRやとう",
       "キリンRヤトウ",
@@ -1086,6 +1326,8 @@
   {
     "name": "クラウンスレイヤー",
     "img": "Crownslayer",
+    "class": "特殊",
+    "branch": "執行者",
     "keywords": [
       "くらうんすれいやー",
       "クラウンスレイヤー"
@@ -1094,6 +1336,8 @@
   {
     "name": "グレイディーア",
     "img": "Gladiia",
+    "class": "特殊",
+    "branch": "鉤縄師",
     "keywords": [
       "ぐれいでぃーあ",
       "グレイディーア"
@@ -1102,6 +1346,8 @@
   {
     "name": "ドロシー",
     "img": "Dorothy",
+    "class": "特殊",
+    "branch": "罠師",
     "keywords": [
       "どろしー",
       "ドロシー"
@@ -1110,6 +1356,8 @@
   {
     "name": "ファントム",
     "img": "Phantom",
+    "class": "特殊",
+    "branch": "執行者",
     "keywords": [
       "ふぁんとむ",
       "ファントム"
@@ -1118,6 +1366,8 @@
   {
     "name": "ミヅキ",
     "img": "Mizuki",
+    "class": "特殊",
+    "branch": "潜伏者",
     "keywords": [
       "みづき",
       "ミヅキ"
@@ -1126,6 +1376,8 @@
   {
     "name": "リー",
     "img": "Lee",
+    "class": "特殊",
+    "branch": "行商人",
     "keywords": [
       "りー",
       "リー"
@@ -1134,6 +1386,8 @@
   {
     "name": "引星ソーンズ",
     "img": "Thorns_the_Lodestar",
+    "class": "特殊",
+    "branch": "錬金士",
     "keywords": [
       "引星そーんず",
       "引星ソーンズ",
@@ -1148,6 +1402,8 @@
   {
     "name": "帰溟スペクター",
     "img": "Specter_the_Unchained",
+    "class": "特殊",
+    "branch": "傀儡師",
     "keywords": [
       "帰溟すぺくたー",
       "帰溟スペクター",
@@ -1162,6 +1418,8 @@
   {
     "name": "血掟テキサス",
     "img": "Texas_the_Omertosa",
+    "class": "特殊",
+    "branch": "執行者",
     "keywords": [
       "血掟てきさす",
       "血掟テキサス",
@@ -1176,6 +1434,8 @@
   {
     "name": "新約エクシア",
     "img": "Exusiai_the_New_Covenant",
+    "class": "特殊",
+    "branch": "鬼才",
     "keywords": [
       "新約えくしあ",
       "新約エクシア",
@@ -1190,6 +1450,8 @@
   {
     "name": "琳琅スワイヤー",
     "img": "Swire_the_Elegant_Wit",
+    "class": "特殊",
+    "branch": "行商人",
     "keywords": [
       "琳琅すわいやー",
       "琳琅スワイヤー",
