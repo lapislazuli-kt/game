@@ -1,7 +1,6 @@
 [
   {
     "name": "イネス",
-    "id": 1,
     "img": "Ines",
     "keywords": [
       "いねす",
@@ -10,7 +9,6 @@
   },
   {
     "name": "ヴィジェル",
-    "id": 2,
     "img": "Vigil",
     "keywords": [
       "ヴぃじぇる",
@@ -19,7 +17,6 @@
   },
   {
     "name": "ウルピスフォリア",
-    "id": 3,
     "img": "Vulpisfoglia",
     "keywords": [
       "うるぴすふぉりあ",
@@ -28,7 +25,6 @@
   },
   {
     "name": "サイラッハ",
-    "id": 4,
     "img": "Saileach",
     "keywords": [
       "さいらっは",
@@ -37,7 +33,6 @@
   },
   {
     "name": "サガ",
-    "id": 5,
     "img": "Saga",
     "keywords": [
       "さが",
@@ -46,7 +41,6 @@
   },
   {
     "name": "シージ",
-    "id": 6,
     "img": "Siege",
     "keywords": [
       "しーじ",
@@ -55,7 +49,6 @@
   },
   {
     "name": "バグパイプ",
-    "id": 7,
     "img": "Bagpipe",
     "keywords": [
       "ばぐぱいぷ",
@@ -64,7 +57,6 @@
   },
   {
     "name": "フレイムテイル",
-    "id": 8,
     "img": "Flametail",
     "keywords": [
       "ふれいむている",
@@ -73,7 +65,6 @@
   },
   {
     "name": "ミュルジス",
-    "id": 9,
     "img": "Muelsyse",
     "keywords": [
       "みゅるじす",
@@ -82,7 +73,6 @@
   },
   {
     "name": "凛御シルバーアッシュ",
-    "id": 10,
     "img": "SilverAsh_the_Reignfrost",
     "keywords": [
       "凛御しるばーあっしゅ",
@@ -97,7 +87,6 @@
   },
   {
     "name": "アイリーニ",
-    "id": 11,
     "img": "Irene",
     "keywords": [
       "あいりーに",
@@ -106,7 +95,6 @@
   },
   {
     "name": "ヴィーナ・ヴィクトリア",
-    "id": 12,
     "img": "Vina_Victoria",
     "keywords": [
       "ヴぃーな・ヴぃくとりあ",
@@ -121,7 +109,6 @@
   },
   {
     "name": "ヴィヴィアナ",
-    "id": 13,
     "img": "Viviana",
     "keywords": [
       "ヴぃヴぃあな",
@@ -130,7 +117,6 @@
   },
   {
     "name": "ウルピアヌス",
-    "id": 14,
     "img": "Ulpianus",
     "keywords": [
       "うるぴあぬす",
@@ -139,7 +125,6 @@
   },
   {
     "name": "エンテレケイア",
-    "id": 15,
     "img": "Entelechia",
     "keywords": [
       "えんてれけいあ",
@@ -148,7 +133,6 @@
   },
   {
     "name": "シルバーアッシュ",
-    "id": 16,
     "img": "SilverAsh",
     "keywords": [
       "しるばーあっしゅ",
@@ -157,7 +141,6 @@
   },
   {
     "name": "ズオ・ラウ",
-    "id": 17,
     "img": "Zuo_Le",
     "keywords": [
       "ずお・らう",
@@ -168,7 +151,6 @@
   },
   {
     "name": "スカジ",
-    "id": 18,
     "img": "Skadi",
     "keywords": [
       "すかじ",
@@ -177,7 +159,6 @@
   },
   {
     "name": "スルト",
-    "id": 19,
     "img": "Surtr",
     "keywords": [
       "すると",
@@ -186,7 +167,6 @@
   },
   {
     "name": "ソーンズ",
-    "id": 20,
     "img": "Thorns",
     "keywords": [
       "そーんず",
@@ -195,7 +175,6 @@
   },
   {
     "name": "チェン",
-    "id": 21,
     "img": "Chen",
     "keywords": [
       "ちぇん",
@@ -204,7 +183,6 @@
   },
   {
     "name": "チューバイ",
-    "id": 22,
     "img": "Qiubai",
     "keywords": [
       "ちゅーばい",
@@ -213,7 +191,6 @@
   },
   {
     "name": "チョンユエ",
-    "id": 23,
     "img": "Chongyue",
     "keywords": [
       "ちょんゆえ",
@@ -222,7 +199,6 @@
   },
   {
     "name": "デーゲンブレヒャー",
-    "id": 24,
     "img": "Degenbrecher",
     "keywords": [
       "でーげんぶれひゃー",
@@ -231,7 +207,6 @@
   },
   {
     "name": "パラス",
-    "id": 25,
     "img": "Pallas",
     "keywords": [
       "ぱらす",
@@ -240,7 +215,6 @@
   },
   {
     "name": "ブレイズ",
-    "id": 26,
     "img": "Blaze",
     "keywords": [
       "ぶれいず",
@@ -249,7 +223,6 @@
   },
   {
     "name": "ベッローネ",
-    "id": 27,
     "img": "Bellone",
     "keywords": [
       "べっろーね",
@@ -258,7 +231,6 @@
   },
   {
     "name": "ヘドリー",
-    "id": 28,
     "img": "Hoederer",
     "keywords": [
       "へどりー",
@@ -267,7 +239,6 @@
   },
   {
     "name": "ペペ",
-    "id": 29,
     "img": "Pepe",
     "keywords": [
       "ぺぺ",
@@ -276,7 +247,6 @@
   },
   {
     "name": "ヘラグ",
-    "id": 30,
     "img": "Hellagur",
     "keywords": [
       "へらぐ",
@@ -285,7 +255,6 @@
   },
   {
     "name": "マウンテン",
-    "id": 31,
     "img": "Mountain",
     "keywords": [
       "まうんてん",
@@ -294,7 +263,6 @@
   },
   {
     "name": "ムリナール",
-    "id": 32,
     "img": "Mlynar",
     "keywords": [
       "むりなーる",
@@ -303,7 +271,6 @@
   },
   {
     "name": "レッシング",
-    "id": 33,
     "img": "Lessing",
     "keywords": [
       "れっしんぐ",
@@ -312,7 +279,6 @@
   },
   {
     "name": "司霆レイズ",
-    "id": 34,
     "img": "Leizi_the_Thunderbringer",
     "keywords": [
       "司霆れいず",
@@ -327,7 +293,6 @@
   },
   {
     "name": "聖約イグゼキュター",
-    "id": 35,
     "img": "Executor_the_Ex_Foedere",
     "keywords": [
       "聖約いぐぜきゅたー",
@@ -342,7 +307,6 @@
   },
   {
     "name": "赤刃明霄チェン",
-    "id": 36,
     "img": "Ch'en_the_Dawnstreak",
     "keywords": [
       "赤刃明霄ちぇん",
@@ -352,12 +316,15 @@
       "異格ちぇん２",
       "異格チェン２",
       "いかくちぇん２",
-      "いかくチェン２"
+      "いかくチェン２",
+      "異格ちぇん2",
+      "異格チェン2",
+      "いかくちぇん2",
+      "いかくチェン2"
     ]
   },
   {
     "name": "豊川祥子",
-    "id": 37,
     "img": "Togawa_Sakiko",
     "keywords": [
       "豊川祥子",
@@ -367,8 +334,21 @@
     ]
   },
   {
+    "name": "怒潮ズィマー",
+    "img": "Zima_the_Raging_Tide",
+    "keywords": [
+      "怒潮ズィマー",
+      "怒潮じぃまー",
+      "どちょうズィマー",
+      "どちょうじぃまー",
+      "異格ズィマー",
+      "異格じぃまー",
+      "いかくズィマー",
+      "いかくじぃまー"
+    ]
+  },
+  {
     "name": "百錬ガヴィル",
-    "id": 38,
     "img": "Gavial_the_Invincible",
     "keywords": [
       "百錬がヴぃる",
@@ -383,7 +363,6 @@
   },
   {
     "name": "耀騎士ニアール",
-    "id": 39,
     "img": "Nearl_the_Radiant_Knight",
     "keywords": [
       "耀騎士にあーる",
@@ -398,7 +377,6 @@
   },
   {
     "name": "サリア",
-    "id": 40,
     "img": "Saria",
     "keywords": [
       "さりあ",
@@ -407,7 +385,6 @@
   },
   {
     "name": "サンクタ・ミキサー",
-    "id": 41,
     "img": "Sankta_Miksaparato",
     "keywords": [
       "さんくた・みきさー",
@@ -418,7 +395,6 @@
   },
   {
     "name": "シュウ",
-    "id": 42,
     "img": "Shu",
     "keywords": [
       "しゅう",
@@ -427,7 +403,6 @@
   },
   {
     "name": "ニェン",
-    "id": 43,
     "img": "Nian",
     "keywords": [
       "にぇん",
@@ -436,7 +411,6 @@
   },
   {
     "name": "ブレミシャイン",
-    "id": 44,
     "img": "Blemishine",
     "keywords": [
       "ぶれみしゃいん",
@@ -445,7 +419,6 @@
   },
   {
     "name": "ペナンス",
-    "id": 45,
     "img": "Penance",
     "keywords": [
       "ぺなんす",
@@ -454,7 +427,6 @@
   },
   {
     "name": "ホシグマ",
-    "id": 46,
     "img": "Hoshiguma",
     "keywords": [
       "ほしぐま",
@@ -463,7 +435,6 @@
   },
   {
     "name": "ホルン",
-    "id": 47,
     "img": "Horn",
     "keywords": [
       "ほるん",
@@ -472,7 +443,6 @@
   },
   {
     "name": "マドロック",
-    "id": 48,
     "img": "Mudrock",
     "keywords": [
       "まどろっく",
@@ -481,7 +451,6 @@
   },
   {
     "name": "ユー",
-    "id": 49,
     "img": "Yu",
     "keywords": [
       "ゆー",
@@ -490,7 +459,6 @@
   },
   {
     "name": "ユーネクテス",
-    "id": 50,
     "img": "Eunectes",
     "keywords": [
       "ゆーねくてす",
@@ -499,7 +467,6 @@
   },
   {
     "name": "斬業ホシグマ",
-    "id": 51,
     "img": "Hoshiguma_the_Breacher",
     "keywords": [
       "斬業ほしぐま",
@@ -514,7 +481,6 @@
   },
   {
     "name": "滌火ジェシカ",
-    "id": 52,
     "img": "Jessica_the_Liberated",
     "keywords": [
       "滌火じぇしか",
@@ -531,7 +497,6 @@
   },
   {
     "name": "Ash",
-    "id": 53,
     "img": "Ash",
     "keywords": [
       "Ash",
@@ -542,7 +507,6 @@
   },
   {
     "name": "W",
-    "id": 54,
     "img": "W",
     "keywords": [
       "W",
@@ -551,7 +515,6 @@
   },
   {
     "name": "アルケット",
-    "id": 55,
     "img": "Archetto",
     "keywords": [
       "あるけっと",
@@ -560,7 +523,6 @@
   },
   {
     "name": "ウィシャデル",
-    "id": 56,
     "img": "Wisadel",
     "keywords": [
       "うぃしゃでる",
@@ -573,7 +535,6 @@
   },
   {
     "name": "エクシア",
-    "id": 57,
     "img": "Exusiai",
     "keywords": [
       "えくしあ",
@@ -582,7 +543,6 @@
   },
   {
     "name": "シュヴァルツ",
-    "id": 58,
     "img": "Schwarz",
     "keywords": [
       "しゅヴぁるつ",
@@ -591,7 +551,6 @@
   },
   {
     "name": "ティフォン",
-    "id": 59,
     "img": "Typhon",
     "keywords": [
       "てぃふぉん",
@@ -600,7 +559,6 @@
   },
   {
     "name": "ナラントゥヤ",
-    "id": 60,
     "img": "Narantuya",
     "keywords": [
       "ならんとぅや",
@@ -609,7 +567,6 @@
   },
   {
     "name": "パゼオンカ",
-    "id": 61,
     "img": "Pozëmka",
     "keywords": [
       "ぱぜおんか",
@@ -618,7 +575,6 @@
   },
   {
     "name": "ファートゥース",
-    "id": 62,
     "img": "Fartooth",
     "keywords": [
       "ふぁーとぅーす",
@@ -627,7 +583,6 @@
   },
   {
     "name": "フィアメッタ",
-    "id": 63,
     "img": "Fiammetta",
     "keywords": [
       "ふぃあめった",
@@ -636,7 +591,6 @@
   },
   {
     "name": "レイ",
-    "id": 64,
     "img": "Ray",
     "keywords": [
       "れい",
@@ -645,7 +599,6 @@
   },
   {
     "name": "レミュアン",
-    "id": 65,
     "img": "Lemuen",
     "keywords": [
       "れみゅあん",
@@ -654,7 +607,6 @@
   },
   {
     "name": "ロサ",
-    "id": 66,
     "img": "Rosa",
     "keywords": [
       "ろさ",
@@ -663,7 +615,6 @@
   },
   {
     "name": "ロスモンティス",
-    "id": 67,
     "img": "Rosmontis",
     "keywords": [
       "ろすもんてぃす",
@@ -672,7 +623,6 @@
   },
   {
     "name": "遊龍チェン",
-    "id": 68,
     "img": "Chen_the_Holungday",
     "keywords": [
       "遊龍ちぇん",
@@ -687,7 +637,6 @@
   },
   {
     "name": "イフリータ",
-    "id": 69,
     "img": "Ifrit",
     "keywords": [
       "いふりーた",
@@ -696,7 +645,6 @@
   },
   {
     "name": "エイヤフィヤトラ",
-    "id": 70,
     "img": "Eyjafjalla",
     "keywords": [
       "えいやふぃやとら",
@@ -705,7 +653,6 @@
   },
   {
     "name": "エーベンホルツ",
-    "id": 71,
     "img": "Ebenholz",
     "keywords": [
       "えーべんほるつ",
@@ -714,7 +661,6 @@
   },
   {
     "name": "カーネリアン",
-    "id": 72,
     "img": "Carnelian",
     "keywords": [
       "かーねりあん",
@@ -723,7 +669,6 @@
   },
   {
     "name": "ケオベ",
-    "id": 73,
     "img": "Ceobe",
     "keywords": [
       "けおべ",
@@ -732,7 +677,6 @@
   },
   {
     "name": "ゴールデングロー",
-    "id": 74,
     "img": "Goldenglow",
     "keywords": [
       "ごーるでんぐろー",
@@ -741,7 +685,6 @@
   },
   {
     "name": "シー",
-    "id": 75,
     "img": "Dusk",
     "keywords": [
       "しー",
@@ -750,7 +693,6 @@
   },
   {
     "name": "ニンフ",
-    "id": 76,
     "img": "Nymph",
     "keywords": [
       "にんふ",
@@ -759,7 +701,6 @@
   },
   {
     "name": "ネクラス",
-    "id": 77,
     "img": "Necrass",
     "keywords": [
       "ねくらす",
@@ -768,7 +709,6 @@
   },
   {
     "name": "パッセンジャー",
-    "id": 78,
     "img": "Passenger",
     "keywords": [
       "ぱっせんじゃー",
@@ -777,7 +717,6 @@
   },
   {
     "name": "ホルハイヤ",
-    "id": 79,
     "img": "Hoolheyak",
     "keywords": [
       "ほるはいや",
@@ -786,7 +725,6 @@
   },
   {
     "name": "マルシル",
-    "id": 80,
     "img": "Marcille",
     "keywords": [
       "まるしる",
@@ -795,7 +733,6 @@
   },
   {
     "name": "マントラ",
-    "id": 81,
     "img": "Mantra",
     "keywords": [
       "まんとら",
@@ -804,7 +741,6 @@
   },
   {
     "name": "モスティマ",
-    "id": 82,
     "img": "Mostima",
     "keywords": [
       "もすてぃま",
@@ -813,7 +749,6 @@
   },
   {
     "name": "リン",
-    "id": 83,
     "img": "Lin",
     "keywords": [
       "りん",
@@ -822,7 +757,6 @@
   },
   {
     "name": "ロゴス",
-    "id": 84,
     "img": "Logos",
     "keywords": [
       "ろごす",
@@ -831,7 +765,6 @@
   },
   {
     "name": "荒蕪ラップランド",
-    "id": 85,
     "img": "Lappland_the_decadenza",
     "keywords": [
       "荒蕪らっぷらんど",
@@ -846,7 +779,6 @@
   },
   {
     "name": "熾炎ブレイズ",
-    "id": 86,
     "img": "Blaze_the_Igniting_Spark",
     "keywords": [
       "熾炎ぶれいず",
@@ -861,7 +793,6 @@
   },
   {
     "name": "聖聆プラマニクス",
-    "id": 87,
     "img": "Pramanix_the_Prerita",
     "keywords": [
       "聖聆ぷらまにくす",
@@ -876,7 +807,6 @@
   },
   {
     "name": "Mon3tr",
-    "id": 88,
     "img": "Mon3tr",
     "keywords": [
       "Mon3tr",
@@ -887,7 +817,6 @@
   },
   {
     "name": "ケルシー",
-    "id": 89,
     "img": "Kaltsit",
     "keywords": [
       "けるしー",
@@ -896,7 +825,6 @@
   },
   {
     "name": "シャイニング",
-    "id": 90,
     "img": "Shining",
     "keywords": [
       "しゃいにんぐ",
@@ -905,7 +833,6 @@
   },
   {
     "name": "ティティ",
-    "id": 91,
     "img": "Titi",
     "keywords": [
       "てぃてぃ",
@@ -914,7 +841,6 @@
   },
   {
     "name": "ナイチンゲール",
-    "id": 92,
     "img": "Nightingale",
     "keywords": [
       "ないちんげーる",
@@ -923,7 +849,6 @@
   },
   {
     "name": "ルーメン",
-    "id": 93,
     "img": "Lumen",
     "keywords": [
       "るーめん",
@@ -932,7 +857,6 @@
   },
   {
     "name": "焔影リード",
-    "id": 94,
     "img": "Reed_the_Flame_Shadow",
     "keywords": [
       "焔影りーど",
@@ -947,7 +871,6 @@
   },
   {
     "name": "純燼エイヤフィヤトラ",
-    "id": 95,
     "img": "Eyjafjalla_the_Hvít_Aska",
     "keywords": [
       "純燼えいやふぃやとら",
@@ -962,7 +885,6 @@
   },
   {
     "name": "アンジェリーナ",
-    "id": 96,
     "img": "Angelina",
     "keywords": [
       "あんじぇりーな",
@@ -971,7 +893,6 @@
   },
   {
     "name": "ヴィルトゥオーサ",
-    "id": 97,
     "img": "Virtuosa",
     "keywords": [
       "ヴぃるとぅおーさ",
@@ -980,7 +901,6 @@
   },
   {
     "name": "シヴィライト・エテルナ",
-    "id": 98,
     "img": "Civilight_Eterna",
     "keywords": [
       "しヴぃらいと・えてるな",
@@ -991,7 +911,6 @@
   },
   {
     "name": "スズラン",
-    "id": 99,
     "img": "Suzuran",
     "keywords": [
       "すずらん",
@@ -1000,7 +919,6 @@
   },
   {
     "name": "ステインレス",
-    "id": 100,
     "img": "Stainless",
     "keywords": [
       "すていんれす",
@@ -1009,7 +927,6 @@
   },
   {
     "name": "トラゴーディア",
-    "id": 101,
     "img": "Tragodia",
     "keywords": [
       "とらごーでぃあ",
@@ -1022,7 +939,6 @@
   },
   {
     "name": "ナスティ",
-    "id": 102,
     "img": "Nasti",
     "keywords": [
       "なすてぃ",
@@ -1031,7 +947,6 @@
   },
   {
     "name": "ノーシス",
-    "id": 103,
     "img": "Gnosis",
     "keywords": [
       "のーしす",
@@ -1040,7 +955,6 @@
   },
   {
     "name": "ハルカ",
-    "id": 104,
     "img": "Haruka",
     "keywords": [
       "はるか",
@@ -1049,7 +963,6 @@
   },
   {
     "name": "マゼラン",
-    "id": 105,
     "img": "Magallan",
     "keywords": [
       "まぜらん",
@@ -1058,7 +971,6 @@
   },
   {
     "name": "リィン",
-    "id": 106,
     "img": "Ling",
     "keywords": [
       "りぃん",
@@ -1067,7 +979,6 @@
   },
   {
     "name": "レイディアン",
-    "id": 107,
     "img": "Raidian",
     "keywords": [
       "れいでぃあん",
@@ -1076,7 +987,6 @@
   },
   {
     "name": "淬羽サイレンス",
-    "id": 108,
     "img": "Silence_the_Paradigmatic",
     "keywords": [
       "淬羽さいれんす",
@@ -1091,7 +1001,6 @@
   },
   {
     "name": "溯光アステジーニ",
-    "id": 109,
     "img": "Astgenne_the_Lightchaser",
     "keywords": [
       "溯光あすてじーに",
@@ -1106,7 +1015,6 @@
   },
   {
     "name": "濁心スカジ",
-    "id": 110,
     "img": "Skadi_the_Corrupting_Heart",
     "keywords": [
       "濁心すかじ",
@@ -1121,7 +1029,6 @@
   },
   {
     "name": "Ela",
-    "id": 111,
     "img": "Ela",
     "keywords": [
       "Ela",
@@ -1132,7 +1039,6 @@
   },
   {
     "name": "ア",
-    "id": 112,
     "img": "Aak",
     "keywords": [
       "あ",
@@ -1141,7 +1047,6 @@
   },
   {
     "name": "アスカロン",
-    "id": 113,
     "img": "Ascalon",
     "keywords": [
       "あすかろん",
@@ -1150,7 +1055,6 @@
   },
   {
     "name": "ウァン",
-    "id": 114,
     "img": "Wang",
     "keywords": [
       "うぁん",
@@ -1159,7 +1063,6 @@
   },
   {
     "name": "ウィーディ",
-    "id": 115,
     "img": "Weedy",
     "keywords": [
       "うぃーでぃ",
@@ -1168,7 +1071,6 @@
   },
   {
     "name": "キリンRヤトウ",
-    "id": 116,
     "img": "Kirin_R_Yato",
     "keywords": [
       "きりんRやとう",
@@ -1183,7 +1085,6 @@
   },
   {
     "name": "クラウンスレイヤー",
-    "id": 117,
     "img": "Crownslayer",
     "keywords": [
       "くらうんすれいやー",
@@ -1192,7 +1093,6 @@
   },
   {
     "name": "グレイディーア",
-    "id": 118,
     "img": "Gladiia",
     "keywords": [
       "ぐれいでぃーあ",
@@ -1201,7 +1101,6 @@
   },
   {
     "name": "ドロシー",
-    "id": 119,
     "img": "Dorothy",
     "keywords": [
       "どろしー",
@@ -1210,7 +1109,6 @@
   },
   {
     "name": "ファントム",
-    "id": 120,
     "img": "Phantom",
     "keywords": [
       "ふぁんとむ",
@@ -1219,7 +1117,6 @@
   },
   {
     "name": "ミヅキ",
-    "id": 121,
     "img": "Mizuki",
     "keywords": [
       "みづき",
@@ -1228,7 +1125,6 @@
   },
   {
     "name": "リー",
-    "id": 122,
     "img": "Lee",
     "keywords": [
       "りー",
@@ -1237,7 +1133,6 @@
   },
   {
     "name": "引星ソーンズ",
-    "id": 123,
     "img": "Thorns_the_Lodestar",
     "keywords": [
       "引星そーんず",
@@ -1252,7 +1147,6 @@
   },
   {
     "name": "帰溟スペクター",
-    "id": 124,
     "img": "Specter_the_Unchained",
     "keywords": [
       "帰溟すぺくたー",
@@ -1267,7 +1161,6 @@
   },
   {
     "name": "血掟テキサス",
-    "id": 125,
     "img": "Texas_the_Omertosa",
     "keywords": [
       "血掟てきさす",
@@ -1282,7 +1175,6 @@
   },
   {
     "name": "新約エクシア",
-    "id": 126,
     "img": "Exusiai_the_New_Covenant",
     "keywords": [
       "新約えくしあ",
@@ -1297,7 +1189,6 @@
   },
   {
     "name": "琳琅スワイヤー",
-    "id": 127,
     "img": "Swire_the_Elegant_Wit",
     "keywords": [
       "琳琅すわいやー",

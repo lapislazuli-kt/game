@@ -15,10 +15,10 @@
         <li>並びは <strong>職業順 > 名前順</strong> です。(先鋒・前衛・重装・狙撃・術師・医療・補助・特殊)</li>
         <li>解答はひらがな、カタカナ、漢字どちらでもよいです。</li>
         <li>「・」はあってもなくてもよいです。</li>
-        <li>異格キャラは「異格+元のキャラ名」でもよいです。</li>
+        <li>異格キャラは「異格+元のキャラ名」でもよいです。異格キャラが２名以上いる場合は、キャラ名の後ろに数字をつけても出てきます。</li>
         <li>左のタイマーはテキストボックスをクリックした瞬間から始まります。タイマーを押すと一時停止、もう一度押すと再開できます。</li>
         <li>現在PCのみ動作を確認しています。エンターキーを押すと解答できます。</li>
-        <li>2026年8月24日の時点で日本版に実装されているキャラが対象です。</li>
+        <li>最終更新日(<time id="modified_date"></time>)の時点で日本版に実装されているキャラが対象です。</li>
       </ul>
     </details>
 
@@ -37,14 +37,15 @@
       <!-- カウント -->
       <div class="grid__item" id="gi3">
         <div class="ansPlace">
-          <span id="counter">0</span>/
-          <span id="counter2"></span>
+          <span id="numerator">0</span>/
+          <span id="denominator"></span>
         </div>
       </div>
     </div>
     <hr>
   </header>
 
+  <!-- 結果部分 -->
   <div id="result"></div>
 
   <script src="./js/chara6ans.js"></script>
